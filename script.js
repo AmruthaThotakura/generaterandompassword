@@ -13,4 +13,4 @@ function generatePassword() {
     passwordInput.value = password
     }
 
-    generateButton.addEventListener("click", generatePassword)
+    generateButton.addEventListener("click", generatePassword) 
